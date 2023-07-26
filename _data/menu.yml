@@ -1,0 +1,12 @@
+entries:
+  - title: Nicolas Frisby
+    entries:
+      - title: email
+        url: mailto:nicolas.frisby@gmail.com
+      - title: github
+        url: http://github.com/nfrisby/
+      - title: [![CC BY-SA 4.0][https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg]]
+        url: http://creativecommons.org/licenses/by-sa/4.0/
+
+  - title: posts
+    post_list: true
