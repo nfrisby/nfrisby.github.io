@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 title: Nicolas Frisby
 description: personal website
+
+remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "light"
+  back_home_text: "<<"
+  date_format: "%Y-%B-%e"
+  show_description: false
